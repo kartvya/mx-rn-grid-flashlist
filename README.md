@@ -48,6 +48,8 @@ import { MxGridList, MxInstaGrid } from 'mx-rn-grid-flashlist';
 
 #### Output
 
+Uploading Screen Recording 2024-06-06 at 5.58.49 PM.mov…
+
 #### Properties
 
 | Prop             | Description                                                                                                                 | Type     |
