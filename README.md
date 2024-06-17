@@ -48,7 +48,7 @@ import { MxGridList, MxInstaGrid } from 'mx-rn-grid-flashlist';
 
 #### Output
 
-Uploading Screen Recording 2024-06-06 at 5.58.49 PM.mov…
+https://github.com/kartvya/mx-rn-grid-flashlist/assets/68657182/28e3e703-db46-42ae-924b-6144cd61fe1f
 
 #### Properties
 
